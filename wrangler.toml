@@ -1,4 +1,4 @@
-name = "SPS-Lawyer"
+name = "spslawyerportfoliowebsite"
 compatibility_date = "2025-12-25"
 
 # Tell Cloudflare Pages where to find the build output
